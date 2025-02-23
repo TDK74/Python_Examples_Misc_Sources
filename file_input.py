@@ -1,4 +1,4 @@
-''' content of infile.py '''
+''' content of file_input.py '''
 import sys
 import fileinput
 
