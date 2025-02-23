@@ -16,4 +16,4 @@ class Third(Second, First):
     print("third")
 
 
-Third();
+Third()
